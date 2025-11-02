@@ -31,7 +31,7 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link to="/TazSupport" className="text-sm text-primary-foreground/80 hover:text-accent transition-colors">
+                <Link to="/TaxSupport" className="text-sm text-primary-foreground/80 hover:text-accent transition-colors">
                   Tax Support Services
                 </Link>
               </li>
